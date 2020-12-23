@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Course": 3,
+    "Topic": 3
+  },
+  "models": {
+    "Course": {
+      "1": "{\"name\":\"Elec\",\"topics\":[1],\"code\":1}",
+      "2": "{\"name\":\"Math\",\"topics\":[],\"code\":2}"
+    },
+    "Topic": {
+      "1": "{\"name\":\"dsd\",\"subject\":1,\"code\":1}"
+    }
+  }
+}
